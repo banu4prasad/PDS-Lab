@@ -1,5 +1,7 @@
 # PDS-Lab
-Python programs 
+**Python programs**
+Use Visual Studio Code for running the code.
+
 
 ## Getting Started
 
